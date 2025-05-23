@@ -49,7 +49,7 @@ You cannot skip the third step, as data modeling lays the foundation for all rep
 
 In this project, we used the **Snowflake schema** data modeling method.
 
-![Alt Text](Data_model.png)
+![Data Model Diagram](https://raw.githubusercontent.com/Ashwini1503/Business-Insights-360/refs/heads/main/Data%20Model.png)
 
 ---
 
