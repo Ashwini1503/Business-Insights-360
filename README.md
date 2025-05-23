@@ -36,17 +36,21 @@ Fact tables: These contain transaction records and business activities.
 
 ---
 
-## 🔄 Data Modeling & Workflow
+## Importing Data and Data Modeling
 
-Data was imported from **MySQL** and transformed in **Power BI** using a **Snowflake schema** model.
+Data was imported from MySQL into Power BI. After cleaning and transforming the data, a data model was created to enable effective analysis.
 
-**Workflow Overview**:
-1. ✅ Data Extraction  
-2. ✅ Data Cleaning  
-3. ✅ Data Modeling  
-4. ✅ Data Analysis  
+**Why is data modeling important?**  
+A data analyst’s workflow typically follows four steps:
 
-> 📌 *Well-structured data modeling is critical for reliable performance and insightful reporting.*
+✅ Data Extraction → ✅ Data Cleaning → ✅ Data Modeling → ✅ Data Analysis
+
+You cannot skip the third step, as data modeling lays the foundation for all reports. All visuals depend on a good data model; poor modeling can negatively impact report performance.
+
+In this project, we used the **Snowflake schema** data modeling method.
+
+![Data Model Diagram](images/data_model.png)
+
 
 ---
 
