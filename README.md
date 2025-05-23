@@ -1,4 +1,4 @@
-# 📊 BUSINESS INSIGHTS 360 – Power BI Analytics Project
+# 📊 BUSINESS INSIGHTS 360 – Power BI Project
 Power BI dashboard offers full-spectrum reports across Finance, Sales, Marketing, Supply Chain, and Executive views—delivering a complete 360° perspective of business performance.
 
 ## 🔍 Project Overview
@@ -57,22 +57,22 @@ In this project, we used the **Snowflake schema** data modeling method.
 
 This report contains **6 interactive pages**, offering a 360° view of AtliQ’s operations:
 
-- **Home Page**: Navigation hub with buttons to access all report pages.
+- **Home Page: Navigation hub with buttons to access all report pages.**
 ![Home Page Diagram](https://raw.githubusercontent.com/Ashwini1503/Business-Insights-360/refs/heads/main/Home%20Page.png)
 
-- **Finance**: Profit & Loss, Net Sales, Top/Bottom performers
+- **Finance: Profit & Loss, Net Sales, Top/Bottom performers**
 ![Finance Page Diagram](https://raw.githubusercontent.com/Ashwini1503/Business-Insights-360/refs/heads/main/Finance%20View.png)
 
-- **Sales**: Customer & Product trends, Gross Margin  
+- **Sales: Customer & Product trends, Gross Margin**  
 ![Sales Page Diagram](https://raw.githubusercontent.com/Ashwini1503/Business-Insights-360/refs/heads/main/Sales%20View.png)
 
-- **Marketing**: Campaign analysis, Segment profitability  
+- **Marketing: Campaign analysis, Segment profitability**  
 ![Marketing Page Diagram](https://raw.githubusercontent.com/Ashwini1503/Business-Insights-360/refs/heads/main/Marketing%20View.png)
 
-- **Supply Chain**: Forecast accuracy, Inventory management  
+- **Supply Chain: Forecast accuracy, Inventory management**  
 ![Supply Chain Page Diagram](https://raw.githubusercontent.com/Ashwini1503/Business-Insights-360/refs/heads/main/Supply%20Chain%20View.png)
 
-- **Executive Summary**: Key metrics for senior leadership  
+- **Executive Summary: Key metrics for senior leadership**  
 ![Executive Page Diagram](https://raw.githubusercontent.com/Ashwini1503/Business-Insights-360/refs/heads/main/Executive%20View.png)
 ---
 
