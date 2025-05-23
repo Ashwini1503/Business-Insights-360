@@ -57,13 +57,23 @@ In this project, we used the **Snowflake schema** data modeling method.
 
 This report contains **6 interactive pages**, offering a 360° view of AtliQ’s operations:
 
-- **Home**: Navigation dashboard  
-- **Finance**: Profit & Loss, Net Sales, Top/Bottom performers  
-- **Sales**: Customer & Product trends, Gross Margin  
-- **Marketing**: Campaign analysis, Segment profitability  
-- **Supply Chain**: Forecast accuracy, Inventory management  
-- **Executive Summary**: Key metrics for senior leadership  
+- **Home Page**: Navigation hub with buttons to access all report pages.
+![Home Page Diagram](https://raw.githubusercontent.com/Ashwini1503/Business-Insights-360/refs/heads/main/Home%20Page.png)
 
+- **Finance**: Profit & Loss, Net Sales, Top/Bottom performers
+![Finance Page Diagram](https://raw.githubusercontent.com/Ashwini1503/Business-Insights-360/refs/heads/main/Finance%20View.png)
+
+- **Sales**: Customer & Product trends, Gross Margin  
+![Sales Page Diagram](https://raw.githubusercontent.com/Ashwini1503/Business-Insights-360/refs/heads/main/Sales%20View.png)
+
+- **Marketing**: Campaign analysis, Segment profitability  
+![Marketing Page Diagram](https://raw.githubusercontent.com/Ashwini1503/Business-Insights-360/refs/heads/main/Marketing%20View.png)
+
+- **Supply Chain**: Forecast accuracy, Inventory management  
+![Supply Chain Page Diagram](https://raw.githubusercontent.com/Ashwini1503/Business-Insights-360/refs/heads/main/Supply%20Chain%20View.png)
+
+- **Executive Summary**: Key metrics for senior leadership  
+![Executive Page Diagram](https://raw.githubusercontent.com/Ashwini1503/Business-Insights-360/refs/heads/main/Executive%20View.png)
 ---
 
 ## 🧠 Skills & Concepts Learned
@@ -85,7 +95,7 @@ This report contains **6 interactive pages**, offering a 360° view of AtliQ’s
 
 ---
 
-## 📚 Business Concepts Covered
+## 📚 Business Concepts Learned
 
 - **Financial Metrics**: Gross/Net Sales, Net Profit, Net Invoice Sales  
 - **Cost Metrics**: COGS, Freight & Manufacturing costs  
@@ -98,8 +108,6 @@ This report contains **6 interactive pages**, offering a 360° view of AtliQ’s
 ## ✅ Conclusion
 
 This Power BI project provides AtliQ Hardware with a comprehensive reporting tool to explore trends, uncover insights, and support strategic decisions. It offers a **360-degree** business view that helps convert raw data into actionable intelligence.
-
-> **Explore, Analyze, Decide!** 📊🔍🚀
 
 ---
 
@@ -122,12 +130,4 @@ Contributions are welcome!
 
 ---
 
-## 🙏 Acknowledgments
-
-- 👨‍🏫 **Hemanand Vadivel** – Instructor & Mentor  
-- 👨‍💻 **Dhaval Patel** – Founder of [Codebasics](https://codebasics.io)  
-
-Special thanks to the Codebasics community for making this project possible.
-
----
-
+> **Explore, Analyze, Decide!** 📊🔍🚀
